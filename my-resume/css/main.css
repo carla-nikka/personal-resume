@@ -1,0 +1,26 @@
+h2 {
+  color: white;
+  background-color: maroon;
+  font-family: "Sofia", sans-serif;
+}
+body {
+  background-color: #DCDCDC;
+}
+h3 {
+  color: #006400;
+  border: 1px solid #FFBF00;
+}
+h1 {
+  font-family: "Georgia", Times, serif;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+body {border-style: dotted dashed solid double;
+}
+p {
+  text-align: left;
+	font-size: 16px;
+	background-color: #E6E6FA;
+}
